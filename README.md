@@ -29,3 +29,5 @@
     </tbody>
 </table>
 ```
+### jinja link - css - html
+```  <link rel="stylesheet" href="{{url_for('static',filename='css/style.css')}}">  ```
