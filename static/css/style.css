@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 2rem;
+}
+table{
+    width: 900px;
+    margin: 0 auto;
+    border: 2px solid black;
+}
+.table-head{
+    background-color: #343a3e;
+    color: #f8bc0c;
+    height: 50px;
+}
+td{
+    text-align: center;
+    height: 50px;
+}
